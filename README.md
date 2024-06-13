@@ -5,9 +5,9 @@
 Descrição
 A API de cadastro de usuários permite criar, ler, atualizar e deletar (CRUD) informações de usuários em um banco de dados. Ela é construída usando Node.js para o backend e Sequelize como ORM (Object-Relational Mapping) para interagir com o banco de dados.
 
-Tecnologias Utilizadas:
--Node.js
--Express.js
--Sequelize
--MySQL 
+Tecnologias Utilizadas: <br>
+-Node.js <br>
+-Express.js <br>
+-Sequelize <br>
+-MySQL <br>
 -Insomnia(para testar a API)
