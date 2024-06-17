@@ -14,5 +14,5 @@ Tecnologias Utilizadas: <br>
 
 <h1>Validação de E-mail em Hooks do Sequelize</h1>
 <br>
-Contexto: <br>
+<strong>Contexto:</strong> <br>
 Quando estamos lidando com a criação de novos registros de usuários, é comum precisar garantir que certos campos, como o e-mail, sejam únicos. O hook beforeCreate do Sequelize para verificar se o endereço de e-mail já está em uso antes de permitir a criação de um novo registro de usuário.
